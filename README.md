@@ -4,6 +4,11 @@
 
 This platform allows customers to view available salon services and make bookings online. Customers can schedule appointments based on available time slots and pay online using Stripe. The project is built using the MERN (MongoDB, Express, React, Node.js) stack.
 
+## Demo Video
+
+[![Watch Demo Video](https://i.postimg.cc/htXXvwpc/salone-purge.png)](selone_perge.mp4)
+
+
 ## Business Case
 
 ### Summary
